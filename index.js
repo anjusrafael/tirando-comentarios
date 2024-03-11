@@ -3,6 +3,6 @@ console.log('oi');
 /* esse é o meu script */
 console.log('oi');
 
-//olá 2
+
 
 //olá 3
