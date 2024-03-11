@@ -10,3 +10,7 @@ remove_comments() {
 find . -type f -name "*.php" | while read file; do
     remove_comments "$file"
 done
+
+find . -type f -name "*.js" | while read file; do
+    remove_comments "$file"
+done
