@@ -3,7 +3,7 @@
 # Define uma função para remover comentários de um arquivo
 remove_comments() {
     echo "Removendo comentários de $1"
-    sed '/^\s*#/d; s/#.*//' "$1" > "$1.tmp"
+    sed -E -i '' -e '/^\s*#/d; s/\/\/.*//; s/\/\*.*\*\///' "$1"
     mv "$1.tmp" "$1"
     echo "Comentários removidos de $1"
 }
