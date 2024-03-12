@@ -5,7 +5,5 @@
 /* ihhhh */
 
 
-#olpa deiur
 
-#  euireo9
 ?>

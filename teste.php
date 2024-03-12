@@ -8,6 +8,4 @@ cat teste.php
 
 
 
-#olpa deiur
 
-#  euireo9

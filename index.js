@@ -9,6 +9,4 @@ console.log('oi');
 //olá 4
 
 
-#olpa deiur
 
-#  euireo9
