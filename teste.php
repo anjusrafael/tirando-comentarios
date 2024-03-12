@@ -1,4 +1,4 @@
-echo "// Comentário 1" > teste.php
+echo "
 echo "
 echo "Código" >> teste.php
 
